@@ -2,6 +2,8 @@
 
 This project simulates the data ecosystem of Swiggy — a major food aggregator — using a complete ELT data engineering pipeline. It covers everything from data loading and transformation in **Snowflake** to visualization using **Streamlit**.
 
+## Entities
+
 
 ## Architecture Overview
 
